@@ -7,7 +7,7 @@ This project uses the TMDB Movies Dataset from Kaggle:
 
 **[TMDB Movies Dataset 2023: 930K+ Movies (Kaggle)](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)**
 
-We cleaned the dataset in Excel, but the file is too large to upload here. The presentation pdf file covers all the preprocessing steps for reference.
+We cleaned the dataset in Excel, but the file is too large to upload here. The presentation file "Lights, Camera, Regression.pdf" covers all the preprocessing steps for reference.
 
 ---
 
