@@ -23,16 +23,6 @@ The film industry is a high-risk, high-reward business — a major studio film c
 
 ---
 
-## Project Structure 📁
-
-```
-├── Data_cleanup_for_Quantitative_Final_Project.ipynb   # Data cleaning notebook
-├── Lights_Camera_Regression.pdf                         # Final presentation slides
-└── README.md
-```
-
----
-
 ## Data & Sample 🗃️
 
 **Source:** TMDB Movies Dataset (Kaggle)
